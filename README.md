@@ -1,2 +1,2 @@
 # pythonTrainee
-for Основи програмування (Prometheus)
+for "Київський Політехнічний Інститут: Основи програмування" (courses.prometheus.org.ua)
